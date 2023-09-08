@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harshpatel97](https://github.com/Harshpatel97)
-
 - 💬 Ask me about **Machine Learning.**
 
 - 📫 How to reach me **harshp4106@gmail.com**
